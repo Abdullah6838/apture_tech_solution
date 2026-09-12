@@ -1,0 +1,6 @@
+id,name,price,quantity,category
+P001,Wireless Mouse,25.99,50,Electronics
+P002,Mechanical Keyboard,-10.00,30,Electronics
+P003,Standing Desk,299.99,abc,Furniture
+,Ergonomic Chair,199.50,15,Furniture
+P005,USB-C Hub,34.99,75,Electronics

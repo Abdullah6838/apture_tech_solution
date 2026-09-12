@@ -1,0 +1,29 @@
+[
+    {
+        "id": "P002",
+        "name": "Mechanical Keyboard",
+        "price": "-10.00",
+        "quantity": "30",
+        "category": "Electronics",
+        "row_number": 2,
+        "error_reasons": "Negative price"
+    },
+    {
+        "id": "P003",
+        "name": "Standing Desk",
+        "price": "299.99",
+        "quantity": "abc",
+        "category": "Furniture",
+        "row_number": 3,
+        "error_reasons": "Invalid quantity format"
+    },
+    {
+        "id": "",
+        "name": "Ergonomic Chair",
+        "price": "199.50",
+        "quantity": "15",
+        "category": "Furniture",
+        "row_number": 4,
+        "error_reasons": "Missing ID"
+    }
+]
